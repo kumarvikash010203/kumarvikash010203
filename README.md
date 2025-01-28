@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Vikash Kumar Sharma
+- 👀 I’m interested in Flutter development, specifically concepts like `bloc`, `hydrated_bloc`, and `built_value`. I’m also passionate about mobile app development and learning cutting-edge technologies.
+- 🌱 I’m currently learning advanced state management in Flutter and exploring backend integrations.
+- 💞️ I’m looking to collaborate on open-source Flutter projects or any exciting mobile app ideas.
+- 📫 How to reach me: [Email](mailto:kumarvikash010203@gmail.com), [LinkedIn](https://www.linkedin.com/in/vikash-kumar-sharma-35482a104), or [Instagram](https://www.instagram.com/er.vikash.sharma?igsh=MW1ydTc2dnlsdGNieQ==).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can write clean code faster than I can finish a cup of coffee ☕!
