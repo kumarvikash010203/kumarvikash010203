@@ -2,8 +2,8 @@
   <!-- Animated profile picture with border effect -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" style="border-radius:50%;border:5px solid #6e5494"/>
   
-  <!-- Animated text header -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Hi+I'm+Vikash+Kumar;Flutter+%26+iOS+Developer" alt="Typing SVG" /></a>
+  <!-- Animated text header - UPDATED WITH FULL NAME -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=+I'm+Vikash+Kumar+Sharma;Flutter+%26+iOS+Developer" alt="Typing SVG" /></a>
   
   <!-- Enhanced badge section with hover glow effect -->
   <div>
