@@ -73,3 +73,16 @@
   <br/>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 </div>
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>📊 GitHub Stats & Contributions</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarvikash010203&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarvikash010203&theme=tokyonight&hide_border=false&border_radius=10" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvikash010203&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="48%" alt="Top Languages" />
+</p>
